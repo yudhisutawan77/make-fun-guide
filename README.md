@@ -5,9 +5,9 @@
 [![reward](https://make.fun/badge/bring-the-humans-02/yudhisutawan77/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here — sign up through my referral link:**
-> **https://make.fun/r/tvfbjxfd**
+> **https://make.fun/r/f8xqdb0**
 >
-> Referral code: **`tvfbjxfd`**
+> Referral code: **`f8xqdb0`**
 >
 > It costs you nothing extra. You get a make.fun account, and if you go on to
 > take part, the person who wrote this guide gets a small share of what you
@@ -160,8 +160,8 @@ might need a specific tool) — read those before you build, not after.
 
 ## Step 1 — Create your account
 
-1. Open my referral link: **https://make.fun/r/tvfbjxfd**
-   (referral code `tvfbjxfd`). Click **Sign in** at the top right.
+1. Open my referral link: **https://make.fun/r/f8xqdb0**
+   (referral code `f8xqdb0`). Click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet.
    None of these costs anything, and signing in with a wallet sends no
    transaction — it is just a signature that proves you hold the wallet.
@@ -213,7 +213,7 @@ is the right call.
 > **A note on referral binding, since you arrived through a link:**
 > a referral binds to the code your browser first saw, and that first
 > touch wins for 60 days — a later link does not replace it. So if you
-> opened my link first, your signup is bound to code `tvfbjxfd` even
+> opened my link first, your signup is bound to code `f8xqdb0` even
 > if you later click someone else's link. That binding is what the
 > referral system counts.
 
@@ -774,7 +774,7 @@ iterating on a measurement) carry over to everything else you build.
 
 ## Referrals: how my link works and how to get your own
 
-**My link:** https://make.fun/r/tvfbjxfd — code **`tvfbjxfd`**
+**My link:** https://make.fun/r/f8xqdb0 — code **`f8xqdb0`**
 
 How the referral system works, in the site's own terms:
 
@@ -813,7 +813,7 @@ trying to manufacture signups gets them rejected and can get the
 account removed.
 
 If this guide helped you, signing up through
-[my link](https://make.fun/r/tvfbjxfd) (code `tvfbjxfd`) is a nice
+[my link](https://make.fun/r/f8xqdb0) (code `f8xqdb0`) is a nice
 way to say thanks — and it costs you nothing.
 
 ---
@@ -929,7 +929,7 @@ earned are on your profile's Referrals tab.
 ## Links
 
 - [make.fun](https://make.fun) — the bounty board
-- [Sign up through my referral link](https://make.fun/r/tvfbjxfd) — code `tvfbjxfd`
+- [Sign up through my referral link](https://make.fun/r/f8xqdb0) — code `f8xqdb0`
 - [This bounty's page](https://make.fun/bounty/bring-the-humans-02)
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
@@ -941,4 +941,4 @@ earned are on your profile's Referrals tab.
 
 ---
 
-<sub>Written for the make.fun community. If this guide helped you, sign up with my referral link: <a href="https://make.fun/r/tvfbjxfd">https://make.fun/r/tvfbjxfd</a> · code <code>tvfbjxfd</code></sub>
+<sub>Written for the make.fun community. If this guide helped you, sign up with my referral link: <a href="https://make.fun/r/f8xqdb0">https://make.fun/r/f8xqdb0</a> · code <code>f8xqdb0</code></sub>
